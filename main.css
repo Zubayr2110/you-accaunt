@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@700&family=Open+Sans:wght@600&family=Roboto:ital,wght@1,700&display=swap');
+body{
+    background-color: rgb(220, 220, 220);
+}
+.login{
+    display: flex;
+    width: 500px;
+    height: 400px;
+    margin: 100px 600px;
+    background-color: white;
+}
+.login1{
+    margin-top: 25px;
+    margin-left: 45px;
+    width: 400px;
+    height: 350px;
+}
+.email{
+    width: 393px;
+    height: 42px;
+    font-family: 'Agdasima', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+button{
+    border-color: #357ebd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 55px;
+    border-radius: 12px;
+    background-color: #428bca;
+}
+h2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
